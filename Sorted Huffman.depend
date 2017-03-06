@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1488820841 source:c:\users\jimmy ramos\documents\algoritmos\sortedhuffman\binarynode.cpp
+	"BinaryNode.h"
+
+1488819921 c:\users\jimmy ramos\documents\algoritmos\sortedhuffman\binarynode.h
+	<iostream>
+
+1488829421 source:c:\users\jimmy ramos\documents\algoritmos\sortedhuffman\main.cpp
+	"Test.h"
+	"BinaryNode.h"
+	<iostream>
+	<queue>
+
+1488820198 c:\users\jimmy ramos\documents\algoritmos\sortedhuffman\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<map>
+	<queue>
+	<list>
+	"BinaryNode.h"
+
+1488829459 source:c:\users\jimmy ramos\documents\algoritmos\sortedhuffman\test.cpp
+	"Test.h"
+
